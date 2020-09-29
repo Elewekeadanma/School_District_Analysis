@@ -7,6 +7,8 @@ The purpose of this project is to gain insights about performance trends and pat
 ### For the District Summary
 - The percentage of students that passed math was higher then the percentage of students that passed reading.
 - The overall percentage of students that passed math and reading was 65%.
+
+![District Summary](https://github.com/Elewekeadanma/School_District_Analysis/blob/master/Resources/district_summary.png)
 ---
 ### For the school summary
 - The schools which had the highest percentage of students passing both math and reading are Charter schools even though they had a lower budget per student than the district schools. However they had less student population and that might be a key factor on why they have higher scores. They most likely have lower student to teacher ratios.
