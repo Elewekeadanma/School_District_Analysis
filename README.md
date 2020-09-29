@@ -5,11 +5,11 @@ The purpose of this project is to gain insights about performance trends and pat
 ---
 ##  Results
 ### For the District Summary
-- the percentage of students that passed math was higher then the percentage of students that passed reading.
-- the overall percentage of students that passed math and reading was 65%.
+- The percentage of students that passed math was higher then the percentage of students that passed reading.
+- The overall percentage of students that passed math and reading was 65%.
 ---
 ### For the school summary
-- the schools which had the highest percentage of students passing both math and reading are Charter schools even though they had a lower budget per student than the district schools. However they had less student population and that might be a key factor on why they have higher scores. They most likely have lower student to teacher ratios.
+- The schools which had the highest percentage of students passing both math and reading are Charter schools even though they had a lower budget per student than the district schools. However they had less student population and that might be a key factor on why they have higher scores. They most likely have lower student to teacher ratios.
 - The average math and reading scores for Charter schools was in the 80% range while the average math and reading scores was in the 70% range.
 ### Relative performance of Thomas High School
 Once the ninth graders' math and reading scores of Thomas High School was replaced , they became one of the top performing schools in the district.
