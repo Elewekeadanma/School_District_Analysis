@@ -21,7 +21,8 @@ The purpose of this project is to gain insights about performance trends and pat
 
 
 Once the ninth graders' math and reading scores of Thomas High School was replaced , they became one of the top performing schools in the district.
-
+---
+![Top schools](https://github.com/Elewekeadanma/School_District_Analysis/blob/master/Resources/Top_schools.png)
 ---
 Replacing the ninth-grade scores made the following changes
 * The math and reading scores wer reduced.
@@ -31,4 +32,4 @@ Replacing the ninth-grade scores made the following changes
 
 ##  Summary
 - After the changes was made, Thomas High School bacame one of the top 5 performing schools.
-- From the spending range dataframe , I could see that the more money alloted per student, the higher the math score.
+- From the spending range dataframe , I could see that the more money alloted per student, the better the math score.
